@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\html_css_js\\SYSFARMACIASANJUAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|c:\\html_css_js\\sysfarmaciasanjuan\\sysfarmaciasanjuan\\usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|solutionrelative:sysfarmaciasanjuan\\usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|c:\\html_css_js\\sysfarmaciasanjuan\\sysfarmaciasanjuan\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|solutionrelative:sysfarmaciasanjuan\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|c:\\html_css_js\\sysfarmaciasanjuan\\sysfarmaciasanjuan\\pages\\moduloempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|solutionrelative:sysfarmaciasanjuan\\pages\\moduloempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|c:\\html_css_js\\sysfarmaciasanjuan\\sysfarmaciasanjuan\\pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|solutionrelative:sysfarmaciasanjuan\\pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|c:\\html_css_js\\sysfarmaciasanjuan\\sysfarmaciasanjuan\\pages\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|solutionrelative:sysfarmaciasanjuan\\pages\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|c:\\html_css_js\\sysfarmaciasanjuan\\sysfarmaciasanjuan\\javascript\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1D424303-B5B0-4C08-8CBA-69C40E07FB9A}|SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN.csproj|solutionrelative:sysfarmaciasanjuan\\javascript\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 326,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\Pages\\index.html",
+              "RelativeDocumentMoniker": "SYSFARMACIASANJUAN\\Pages\\index.html",
+              "ToolTip": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\Pages\\index.html",
+              "RelativeToolTip": "SYSFARMACIASANJUAN\\Pages\\index.html",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAYwOcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-14T06:35:00.18Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.aspx",
+              "DocumentMoniker": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\Usuario.aspx",
+              "RelativeDocumentMoniker": "SYSFARMACIASANJUAN\\Usuario.aspx",
+              "ToolTip": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\Usuario.aspx",
+              "RelativeToolTip": "SYSFARMACIASANJUAN\\Usuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-14T07:19:16.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModuloEmpleado.aspx",
+              "DocumentMoniker": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\Pages\\ModuloEmpleado.aspx",
+              "RelativeDocumentMoniker": "SYSFARMACIASANJUAN\\Pages\\ModuloEmpleado.aspx",
+              "ToolTip": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\Pages\\ModuloEmpleado.aspx",
+              "RelativeToolTip": "SYSFARMACIASANJUAN\\Pages\\ModuloEmpleado.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-14T06:59:38.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\Inicio.aspx",
+              "RelativeDocumentMoniker": "SYSFARMACIASANJUAN\\Inicio.aspx",
+              "ToolTip": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\Inicio.aspx",
+              "RelativeToolTip": "SYSFARMACIASANJUAN\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-14T06:51:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\Pages\\login.html",
+              "RelativeDocumentMoniker": "SYSFARMACIASANJUAN\\Pages\\login.html",
+              "ToolTip": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\Pages\\login.html",
+              "RelativeToolTip": "SYSFARMACIASANJUAN\\Pages\\login.html",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-14T06:49:08.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\javascript\\login.js",
+              "RelativeDocumentMoniker": "SYSFARMACIASANJUAN\\javascript\\login.js",
+              "ToolTip": "C:\\html_css_js\\SYSFARMACIASANJUAN\\SYSFARMACIASANJUAN\\javascript\\login.js",
+              "RelativeToolTip": "SYSFARMACIASANJUAN\\javascript\\login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-14T06:46:06.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
